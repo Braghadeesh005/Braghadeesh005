@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on WebDev / DataAnalytics<br><br> 🌱 I’m currently pursuing Prefinal year in Rajalakshmi Engineering College<br><br>⚡Projects:<br>                  ->  Hire The Wire -  Web App for my Startup WireHub<br>                  ->  Predator - ML based Discord Bot built using Discord.js<br>                  ->  GigaTales - Web E-book Summaries<br><br>
+🔭 I’m currently working on WebDev / DataAnalytics<br><br> 🌱 I’m currently pursuing Prefinal year in Rajalakshmi Engineering College<br><br>⚡Products Developed:<br>                  ->  Hire The Wire -  Web App for my Startup WireHub<br>                  ->  Predator - ML based Discord Bot built using Discord.js<br>                  ->  GigaTales - Web E-book Summaries<br><br>
 
 
 ## 🌐 Socials:
