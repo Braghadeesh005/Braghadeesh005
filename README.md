@@ -1,11 +1,11 @@
-# 👋 Hello! I'm Braghadeesh R.A.
+# Hey!
 
 
 I'm a passionate technologist bridging the gap between robust Application Development and raw ideas. Currently focused on building scalable applications and exploring the exciting world of AI in Networking.
 
 ---
 
-## 🛠️ Tech & Tools Toolkit
+## Tech & Tools Toolkit
 
 I work across a diverse set of technologies, from front-end design to complex backend systems and data analysis.
 
@@ -26,7 +26,7 @@ I work across a diverse set of technologies, from front-end design to complex ba
 
 
 
-## 🌐 Connect with Me
+## Connect with Me
 
 Let's collaborate on a project or connect to discuss technology!
 
