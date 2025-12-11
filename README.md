@@ -1,4 +1,4 @@
-# Hey!
+# B R A G H A D E E S H 🔷
 
 
 I'm a passionate technologist bridging the gap between robust Application Development and raw ideas. Currently focused on building scalable applications and exploring the exciting world of AI in Networking.
